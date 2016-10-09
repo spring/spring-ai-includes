@@ -1,0 +1,6 @@
+Repository which includes the required include headers for compiling Shard.
+
+The generated shared lib won't work as it misses some static links.
+
+For compiling a working Shard shared lib, please use compile Shard inside a spring repository!
+
